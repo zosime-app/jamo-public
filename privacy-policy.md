@@ -5,7 +5,7 @@ title: Privacy Policy / 개인정보 처리방침
 
 # Privacy Policy / 개인정보 처리방침
 
-**Effective Date / 시행일:** 2026-03-14
+**Effective Date / 시행일:** 2026-09-08
 **Developer / 개발자:** zosime
 **Contact / 문의:** zosime1025@gmail.com
 
@@ -29,6 +29,9 @@ Jamo ("the App") is developed and operated by zosime. This Privacy Policy explai
 #### 2.3 Usage Data
 - **Learning Progress**: Data about completed lessons or interactions within the App may be stored in Firebase Firestore to sync your progress across sessions.
 
+#### 2.4 Advertising
+- **In-App Advertising (Google AdMob)**: The App displays banner advertisements served by Google AdMob. To serve and measure ads, AdMob may collect device information and an advertising identifier (Android Advertising ID / Apple Identifier for Advertisers). In the European Economic Area, the UK, and Switzerland, we ask for your consent before serving ads through a Google-certified consent message; on iOS we also present the App Tracking Transparency prompt. You can reset or limit the advertising identifier in your device settings.
+
 ### 3. How We Use Your Information
 
 | Purpose | Data Used |
@@ -37,8 +40,9 @@ Jamo ("the App") is developed and operated by zosime. This Privacy Policy explai
 | Account identification (signed-in users) | Name, Email |
 | Saving learning progress | Anonymous User ID, progress data |
 | Audio playback | Firebase Storage (read-only) |
+| Displaying advertising | Device information, advertising identifier (via Google AdMob) |
 
-We do not use your data for advertising, profiling, or sale to third parties.
+We do not sell your personal data to third parties. Aside from the advertising described in Section 2.4, we do not use your data for profiling.
 
 ### 4. Third-Party Services
 
@@ -51,6 +55,7 @@ The App uses the following third-party services, each governed by their own priv
 | Firebase Storage | Google LLC | Audio file delivery | [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy) |
 | Google Sign-In | Google LLC | Social login | [policies.google.com/privacy](https://policies.google.com/privacy) |
 | Sign in with Apple | Apple Inc. | Social login | [apple.com/legal/privacy](https://www.apple.com/legal/privacy) |
+| Google AdMob | Google LLC | In-app banner advertising | [policies.google.com/technologies/ads](https://policies.google.com/technologies/ads) |
 
 ### 5. Data Retention
 
@@ -104,6 +109,9 @@ Jamo(이하 "앱")는 개발자 zosime이 개발 및 운영합니다. 본 개인
 #### 2.3 이용 데이터
 - **학습 진도**: 완료한 학습 항목 등의 데이터가 Firebase Firestore에 저장되어 세션 간 진도가 유지될 수 있습니다.
 
+#### 2.4 광고
+- **앱 내 광고 (Google AdMob)**: 앱은 Google AdMob이 제공하는 배너 광고를 표시합니다. 광고 제공 및 성과 측정을 위해 AdMob은 기기 정보와 광고 식별자(Android 광고 ID / Apple 광고 식별자 IDFA)를 수집할 수 있습니다. 유럽 경제 지역(EEA), 영국, 스위스에서는 Google 인증 동의 메시지를 통해 광고 게재 전 동의를 받으며, iOS에서는 앱 추적 투명성(App Tracking Transparency) 프롬프트도 함께 표시합니다. 기기 설정에서 광고 식별자를 초기화하거나 제한할 수 있습니다.
+
 ### 3. 정보 이용 목적
 
 | 목적 | 사용 데이터 |
@@ -112,8 +120,9 @@ Jamo(이하 "앱")는 개발자 zosime이 개발 및 운영합니다. 본 개인
 | 계정 식별 (로그인 사용자) | 이름, 이메일 |
 | 학습 진도 저장 | 익명 사용자 ID, 진도 데이터 |
 | 오디오 재생 | Firebase Storage (읽기 전용) |
+| 광고 표시 | 기기 정보, 광고 식별자 (Google AdMob 경유) |
 
-수집된 정보는 광고, 프로파일링, 제3자 판매 등에 사용되지 않습니다.
+수집된 정보는 제3자에게 판매되지 않습니다. 2.4항에 기재된 광고 목적 외에는 프로파일링에 사용되지 않습니다.
 
 ### 4. 제3자 서비스
 
@@ -126,6 +135,7 @@ Jamo(이하 "앱")는 개발자 zosime이 개발 및 운영합니다. 본 개인
 | Firebase Storage | Google LLC | 오디오 파일 제공 | [firebase.google.com/support/privacy](https://firebase.google.com/support/privacy) |
 | Google 로그인 | Google LLC | 소셜 로그인 | [policies.google.com/privacy](https://policies.google.com/privacy) |
 | Apple로 로그인 | Apple Inc. | 소셜 로그인 | [apple.com/legal/privacy](https://www.apple.com/legal/privacy) |
+| Google AdMob | Google LLC | 앱 내 배너 광고 | [policies.google.com/technologies/ads](https://policies.google.com/technologies/ads) |
 
 ### 5. 정보 보유 기간
 
